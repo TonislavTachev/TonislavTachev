@@ -3,7 +3,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
-  <samp>A highly motivated and hard-working Senior Fullstack engineer and graduate Computer Scientist.
+  <samp>A highly motivated and hard-working Senior Software engineer and graduate Computer Scientist.
    <br>
 Chosen specializations: <br> Mobile and Web Development. <br> <br>Excellent computer, programming and communication skills with the ability to work well under pressure and to take the initiative in a fast-paced environment. 
 Great attention to detail, well-organized, quick learner, eager to improve. 
